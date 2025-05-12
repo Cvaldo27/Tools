@@ -11,30 +11,37 @@
   },
   {
     "name": "Spot Quote Tool",
+    "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-circle-dollar-sign-icon lucide-circle-dollar-sign'><circle cx='12' cy='12' r='10'/><path d='M16 8h-6a2 2 0 1 0 0 4h4a2 2 0 1 1 0 4H8'/><path d='M12 18V6'/></svg>",
     "url": "https://connect.circle-analytics.com/circle/chicago/Tools/SQT"
   },
   {
     "name": "Dim Converter/Splitter",
+    "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-share2-icon lucide-share-2'><circle cx='18' cy='5' r='3'/><circle cx='6' cy='12' r='3'/><circle cx='18' cy='19' r='3'/><line x1='8.59' x2='15.42' y1='13.51' y2='17.49'/><line x1='15.41' x2='8.59' y1='6.51' y2='10.49'/></svg>",
     "url": "https://docs.google.com/spreadsheets/d/1TgOnshHomXU-haqC6xP9CSeGbg-Vanv2wVg9_Hksgmo/edit?usp=sharing"
   },
   {
     "name": "YTD Client Loads Search",
+    "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-share2-icon lucide-share-2'><circle cx='18' cy='5' r='3'/><circle cx='6' cy='12' r='3'/><circle cx='18' cy='19' r='3'/><line x1='8.59' x2='15.42' y1='13.51' y2='17.49'/><line x1='15.41' x2='8.59' y1='6.51' y2='10.49'/></svg>",
     "url": "https://docs.google.com/spreadsheets/d/1UFqt-vngys1Ft8wFr19jl0j-3eGlLr9iA7C514d1lEY/edit?usp=sharing"
   },
   {
     "name": "Drayage Quote SOP",
+    "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-scroll-text-icon lucide-scroll-text'><path d='M15 12h-5'/><path d='M15 8h-5'/><path d='M19 17V5a2 2 0 0 0-2-2H4'/><path d='M8 21h12a2 2 0 0 0 2-2v-1a1 1 0 0 0-1-1H11a1 1 0 0 0-1 1v1a2 2 0 1 1-4 0V5a2 2 0 1 0-4 0v2a1 1 0 0 0 1 1h3'/></svg>",
     "url": "https://docs.google.com/document/d/1ZlLKSF0k5pEhR65qhgDYCKJ-Wh8_qBj2wBOfY-4mQRo/edit?usp=sharing"
   },
   {
     "name": "Metro Area City Weather",
+    "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-cloud-lightning-icon lucide-cloud-lightning'><path d='M6 16.326A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 .5 8.973'/><path d='m13 12-3 5h4l-3 5'/></svg>",
     "url": "https://lookerstudio.google.com/s/jBXURK2ExTw"
   },
   {
     "name": "Heavy Haul Dim Sheet",
+    "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-scale-icon lucide-scale'><path d='m16 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z'/><path d='m2 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z'/><path d='M7 21h10'/><path d='M12 3v18'/><path d='M3 7h2c2 0 5-1 7-2 2 1 5 2 7 2h2'/></svg>",
     "url": "https://docs.google.com/spreadsheets/d/1cUzeyQZLbOVbpQroWOu184fAvWSc0-2KBCQnU_9XhQM/edit?usp=sharing"
   },
   {
     "name": "PTO REQUEST TRACKER",
+    "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-tree-palm-icon lucide-tree-palm'><path d='M13 8c0-2.76-2.46-5-5.5-5S2 5.24 2 8h2l1-1 1 1h4'/><path d='M13 7.14A5.82 5.82 0 0 1 16.5 6c3.04 0 5.5 2.24 5.5 5h-3l-1-1-1 1h-3'/><path d='M5.89 9.71c-2.15 2.15-2.3 5.47-.35 7.43l4.24-4.25.7-.7.71-.71 2.12-2.12c-1.95-1.96-5.27-1.8-7.42.35'/><path d='M11 15.5c.5 2.5-.17 4.5-1 6.5h4c2-5.5-.5-12-1-14'/></svg>",
     "url": "https://docs.google.com/spreadsheets/d/1k1xZZ3b7p0ybpvvhmXCZGrikZJozquoG8Ea7ILgepwM/edit?usp=sharing"
   }
 ]
