@@ -24,6 +24,11 @@
     "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-search-check-icon lucide-search-check'><path d='m8 11 2 2 4-4'/><circle cx='11' cy='11' r='8'/><path d='m21 21-4.3-4.3'/></svg>",
     "url": "https://docs.google.com/spreadsheets/d/1UFqt-vngys1Ft8wFr19jl0j-3eGlLr9iA7C514d1lEY/edit?usp=sharing"
   },
+    {
+    "name": "Monthly Client Summary",
+    "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-chart-no-axes-combined-icon lucide-chart-no-axes-combined'><path d='M12 16v5'/><path d='M16 14v7'/><path d='M20 10v11'/><path d='m22 3-8.646 8.646a.5.5 0 0 1-.708 0L9.354 8.354a.5.5 0 0 0-.707 0L2 15'/><path d='M4 18v3'/><path d='M8 14v7'/></svg>",
+    "url": "https://lookerstudio.google.com/reporting/ebb7d85c-83aa-4fd6-b745-9f9e20e2d798/page/lFGMF"
+  },
   {
     "name": "Drayage Quote How To",
     "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-scroll-text-icon lucide-scroll-text'><path d='M15 12h-5'/><path d='M15 8h-5'/><path d='M19 17V5a2 2 0 0 0-2-2H4'/><path d='M8 21h12a2 2 0 0 0 2-2v-1a1 1 0 0 0-1-1H11a1 1 0 0 0-1 1v1a2 2 0 1 1-4 0V5a2 2 0 1 0-4 0v2a1 1 0 0 0 1 1h3'/></svg>",
